@@ -14,7 +14,7 @@
 
 
   <dependencies>
-    <!-- CUCUMBER: PARA O JUNIT EXECUTAR-->
+    <!-- CUCUMBER: PARA O JUNIT EXECUTAR--->
     <dependency>
       <groupId>info.cukes</groupId>
       <artifactId>cucumber-junit</artifactId>
